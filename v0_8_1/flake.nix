@@ -1,5 +1,5 @@
 {
-  description = ''High level GObject-Introspection based GTK3 bindings'';
+  description = ''High level GObject-Introspection based GTK3/GTK4 bindings'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
