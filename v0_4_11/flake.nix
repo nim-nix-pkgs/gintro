@@ -11,6 +11,7 @@
   inputs.src-gintro-v0_4_11.ref   = "refs/tags/v0.4.11";
   inputs.src-gintro-v0_4_11.owner = "stefansalewski";
   inputs.src-gintro-v0_4_11.repo  = "gintro";
+  inputs.src-gintro-v0_4_11.dir   = "";
   inputs.src-gintro-v0_4_11.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
