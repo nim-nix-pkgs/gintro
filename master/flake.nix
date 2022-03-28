@@ -11,7 +11,6 @@
   inputs.src-gintro-master.ref   = "refs/heads/master";
   inputs.src-gintro-master.owner = "stefansalewski";
   inputs.src-gintro-master.repo  = "gintro";
-  inputs.src-gintro-master.dir   = "";
   inputs.src-gintro-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
