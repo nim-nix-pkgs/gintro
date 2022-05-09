@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/stefansalewski/gintro",
   "refs": [
-    "fatal: unable to access 'https://github.com/stefansalewski/gintro/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/stefansalewski/gintro/': SSL connection timeout",
     ""
   ],
   "heads": []
