@@ -37,10 +37,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-gintro-master": "src-gintro-master"
+        "src-gintro-v0_9_9": "src-gintro-v0_9_9"
       }
     },
-    "src-gintro-master": {
+    "src-gintro-v0_9_9": {
       "flake": false,
       "locked": {
         "lastModified": 1657521538,
@@ -52,7 +52,7 @@
       },
       "original": {
         "owner": "stefansalewski",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v0.9.9",
         "repo": "gintro",
         "type": "github"
       }
