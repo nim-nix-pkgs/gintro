@@ -23,11 +23,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1662096612,
-        "narHash": "sha256-R+Q8l5JuyJryRPdiIaYpO5O3A55rT+/pItBrKcy7LM4=",
+        "lastModified": 1667085676,
+        "narHash": "sha256-jPHYYoSdrV3ypWG4oi9SUeI2MU6dLjxM88+9io5Rrx0=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "21de2b973f9fee595a7a1ac4693efff791245c34",
+        "rev": "e6e6bad81b7e11f37d893ef39712ce8918ae2338",
         "type": "github"
       },
       "original": {
@@ -45,11 +45,11 @@
     "src-gintro-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1661095674,
-        "narHash": "sha256-znGKAgi7bwpRTShMp+dWKJb5XjJRferXO8KME7oeb20=",
+        "lastModified": 1666987208,
+        "narHash": "sha256-wNI0cyssQKFNcMWu3tU1FKOLaKIfUPcVIOKhxsv/JpQ=",
         "owner": "stefansalewski",
         "repo": "gintro",
-        "rev": "0a6bbb59ebbae5da0d53009b2dcc7ced46b3b9d0",
+        "rev": "8a8e53489a1f58f735ab67a6734eef3f64e46729",
         "type": "github"
       },
       "original": {
